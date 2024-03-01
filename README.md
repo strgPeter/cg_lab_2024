@@ -2,7 +2,7 @@
 
 This repository contains the labs for the course Computer Graphics at the Johannes Kepler University Linz, Austria.
 
-Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/course/view.php?id=23243).
+Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/course/view.php?id=30160).
 
 ## Staff
 
