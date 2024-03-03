@@ -2,7 +2,7 @@
 
 This repository contains the labs for the course Computer Graphics at the Johannes Kepler University Linz, Austria.
 
-Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/course/view.php?id=23243).
+Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/course/view.php?id=30160).
 
 ## Staff
 
@@ -12,7 +12,7 @@ Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/cours
 
 ## Launch
 
-1. Clone this repository: `git clone https://github.com/JKU-ICG/cg_lab_2023.git`
+1. Clone this repository: `git clone https://github.com/JKU-ICG/cg_lab_2024.git`
 2. Open the whole folder in VS Code
 3. Click _Go Live_ button in the bottom right corner, provided by the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension
 4. Open [http://localhost:5500](http://localhost:5500) (or whatever port is displayed) in the browser
